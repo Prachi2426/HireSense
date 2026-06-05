@@ -20,6 +20,85 @@ HireSense is a full-stack MERN recruitment platform that helps students analyze 
 * Role-Based Access Control (RBAC)
 * Analytics Dashboard using Recharts
 
+## Screenshots
+
+### Landing Page
+
+![Landing Page](screenshots/landing_page.png)
+
+### ATS Score Analysis
+
+![ATS Score](screenshots/ATS_score.png)
+
+### Resume Comparison
+
+![Resume Comparison](screenshots/Resume_comparision.png)
+
+### Recruiter Dashboard
+
+![Recruiter Dashboard](screenshots/recruiter_dashboard.png)
+
+### Job Matching
+
+![Job Matching](screenshots/job_matching.png)
+
+### Skill Analysis
+
+![Skill Analysis](screenshots/skill_analysis.png)
+
+### Student Dashboard
+
+![Student Dashboard](screenshots/Student_dashboard.png)
+
+### Student Profile
+
+![Student Profile](screenshots/student_profile.png)
+
+### Student Login Credentials
+
+![Student Login Credentials](screenshots/student_login_credentials.png)
+
+### Recruiter Profile
+
+![Recruiter Profile](screenshots/recruiter_profile.png)
+
+### Recruiter Login Credentials
+
+![Recruiter Login Credentials](screenshots/Recruiter_login_credential.png)
+
+### Recruiter Applications Received
+
+![Recruiter Applications Received](screenshots/recruiter_application_received.png)
+
+### Recruiter Posted Jobs
+
+![Recruiter Posted Jobs](screenshots/recruiter_postedjobs.png)
+
+### Recruiter Security Credentials
+
+![Recruiter Security Credentials](screenshots/recruiter_security_credentials.png)
+
+### All Job Roles
+
+![All Job Roles](screenshots/all_jobroles.png)
+
+### Job Roles
+
+![Job Roles](screenshots/job_roles.png)
+
+### Interview Prep
+
+![Interview Prep](screenshots/interview_prep.png)
+
+### Profile Security
+
+![Profile Security](screenshots/profile_security.png)
+
+### Skills
+
+![Skills](screenshots/skills.png)
+
+
 ## Tech Stack
 
 ### Frontend
