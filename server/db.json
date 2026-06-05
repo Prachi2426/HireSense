@@ -1,0 +1,1654 @@
+{
+  "users": [
+    {
+      "_id": "local_u_b1n4tnlax",
+      "name": "Prachi Gupta",
+      "email": "www.prachigupta26@gmail.com",
+      "password": "$2a$10$ETTFZTotZs9I1UOnm.BH8Oj7opWYea32C2/GKWIW9h7ob0kb4H666",
+      "createdAt": "2026-05-22T10:59:55.486Z",
+      "updatedAt": "2026-05-22T10:59:55.486Z"
+    },
+    {
+      "_id": "local_u_3me4nruqp",
+      "name": "Prachi Gupta",
+      "email": "20230802438@dypiu.ac.in",
+      "password": "$2a$10$vJowaKSUJa/.aCnnSG80AeOD8RiwHPZl06v7ORmlsvtzmSMrzroJa",
+      "role": "recruiter",
+      "github_username": "",
+      "createdAt": "2026-05-23T15:00:32.962Z",
+      "updatedAt": "2026-05-23T15:00:32.962Z"
+    },
+    {
+      "_id": "local_u_86ntxnbd8",
+      "name": "Prachi G",
+      "email": "prachigupta2624@gmail.com",
+      "password": "$2a$10$Pgc1kOOqYDoMSa4QtCxB4.q./qPSdJuVzShhw850g8ABxcJBLnJpW",
+      "role": "student",
+      "github_username": "",
+      "createdAt": "2026-05-23T15:02:54.330Z",
+      "updatedAt": "2026-05-23T18:09:53.083Z"
+    },
+    {
+      "_id": "local_u_98o94z74a",
+      "name": "Prachi",
+      "email": "prachi26@gmail.comm",
+      "password": "$2a$10$HLmz8/29Nefnqz.DL8d65OI0swjUV79LeYQ5qoanXzVcd0jIhXKC2",
+      "role": "student",
+      "github_username": "",
+      "createdAt": "2026-05-23T15:06:05.769Z",
+      "updatedAt": "2026-05-23T15:06:05.769Z"
+    },
+    {
+      "_id": "local_u_xzl1vrxkj",
+      "name": "Himanshu",
+      "email": "himanshu24@dypiu.ac.in",
+      "password": "$2a$10$VPXpZVAU0q00eAv5fwH3LePoUUOiYufICG4qBY21ms5c.5cadMoTq",
+      "role": "student",
+      "github_username": "",
+      "createdAt": "2026-05-23T15:43:16.636Z",
+      "updatedAt": "2026-05-23T15:43:16.636Z"
+    },
+    {
+      "_id": "local_u_4s7ruqr6d",
+      "name": "Sarika Gupta",
+      "email": "www.sarikagupta@gmail.com",
+      "password": "$2a$10$XGbrQdKx0dJyHJJDaurMe.TJLf67.wk5I0/7UJNVTqSb6STvYsX9O",
+      "role": "student",
+      "github_username": "",
+      "createdAt": "2026-05-23T15:53:12.880Z",
+      "updatedAt": "2026-05-23T15:53:12.880Z"
+    },
+    {
+      "_id": "local_u_hkez9na65",
+      "name": "Prachi Gupta",
+      "email": "prachi24@gmail.com",
+      "password": "$2a$10$tNdH1kk9ynMKcoEjGGB0f.fhqpGFsiVMHiZQl/xfL5SJXBuxswqp2",
+      "role": "recruiter",
+      "github_username": "",
+      "createdAt": "2026-05-23T18:53:45.061Z",
+      "updatedAt": "2026-05-23T18:53:45.061Z"
+    },
+    {
+      "_id": "local_u_lx2xsw67b",
+      "name": "Prachi Gupta",
+      "email": "sarikagupta@26gmail.com",
+      "password": "$2a$10$j1v3BJwupOA8WQCNWHGzAeuwT0er/kJ/MnuqfMDdGwloA4Z.bIJDW",
+      "role": "student",
+      "github_username": "",
+      "createdAt": "2026-06-05T14:30:41.452Z",
+      "updatedAt": "2026-06-05T14:30:41.452Z"
+    }
+  ],
+  "resumes": [
+    {
+      "_id": "local_r_hbe3pki9m",
+      "user_id": "local_u_b1n4tnlax",
+      "file_path": "C:\\Users\\wwwpr\\app\\server\\uploads\\1779558962263-resume.pdf",
+      "file_name": "1779558962263-resume.pdf",
+      "resume_text": "\n\nPrachi Gupta \n(+91)9977200390 | prachigupta2624@gmail.com | LinkedIn | GitHub  \n \nEDUCATION \nBachelor of Technology in Computer Science Engineering \nD Y Patil International University – Pune \nCGPA: 7.51/10 | Expected Graduation: 2027 \nClass 12th \nNarmada Convent Higher secondary School, Barwani \nPercentage: 81.8% | Year: 2023 \nClass 10th \nRadiant Convent High School, Rajpur \nPercentage: 92.6% | Year: 2020 \nPROJECTS \nExpense Tracker Application:  \n• Developed a full-stack Digital Wallet & Expen...",
+      "job_description": "python roles",
+      "role": "Software Developer",
+      "cgpa": 8.5,
+      "college": "D Y Patil International University – Pune",
+      "graduation_year": 2027,
+      "ats_score": 95,
+      "match_percentage": 100,
+      "grammar_issues": [],
+      "word_count": 379,
+      "length_status": "OK",
+      "length_recommendation": "",
+      "contact_missing": [],
+      "weak_bullets": [
+        "Prachi Gupta",
+        "EDUCATION",
+        "Bachelor of Technology in Computer Science Engineering",
+        "D Y Patil International University – Pune",
+        "CGPA: 7.51/10 | Expected Graduation: 2027",
+        "Class 12th",
+        "Narmada Convent Higher secondary School, Barwani",
+        "Percentage: 81.8% | Year: 2023",
+        "Class 10th",
+        "Radiant Convent High School, Rajpur",
+        "Percentage: 92.6% | Year: 2020",
+        "PROJECTS",
+        "Expense Tracker Application:",
+        "Bootstrap with features like real-time balance calculation and transaction management.",
+        "categorized income/expense records efficiently.",
+        "validation, and automated recurring payment (auto-debit) processing.",
+        "and CRUD operations, while resolving server and database integration issues using XAMPP.",
+        "Resume Analyzer:",
+        "SQLite to automate resume screening and candidate evaluation.",
+        "identification, keyword matching, and personalized resume improvement suggestions.",
+        "roles and generate structured evaluation reports in real time.",
+        "workflow for resume parsing, AI processing, and database storage of analysis results.",
+        "INTERNSHIP",
+        "CODTECH IT SOLUTIONS PRIVATE LIMITED – Cloud Software Developer Intern",
+        "Duration- May 2025-July 2025",
+        "Configured AWS S3 buckets with secure access, versioning, and file management.",
+        "Set up AWS CloudWatch monitoring and alerts for cloud resource performance.",
+        "TECHNICAL SKILLS",
+        "Programming Languages: Python, Java, JavaScript",
+        "Web Technologies: HTML, CSS, React, Node.js",
+        "Cloud & DevOps: AWS, Docker, Terraform",
+        "Database: MySQL, MongoDB",
+        "Tools: Git, GitHub, VS Code",
+        "Concepts: Data Structures, OOP, Networking, Machine Learning",
+        "CERTIFICATIONS",
+        "Retrieval-Augmented Generation (RAG) with Embeddings & Vector Databases   - (Coursera)",
+        "Data Engineering: Pipelines, ETL, Hadoop -(Coursera)",
+        "Devops on AWS and Project Management -(Coursera)",
+        "PARTICIPATION & ACHIEVEMENTS",
+        "Participated in hackathons and coding competition – OFFGRID 2.0 -2026 (conducted by",
+        "CodeDecode DYPIU)"
+      ],
+      "action_verb_suggestions": [
+        {
+          "line": "Prachi Gupta",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "EDUCATION",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Bachelor of Technology in Computer Science Engineering",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "D Y Patil International University – Pune",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "CGPA: 7.51/10 | Expected Graduation: 2027",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Class 12th",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Narmada Convent Higher secondary School, Barwani",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Percentage: 81.8% | Year: 2023",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Class 10th",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Radiant Convent High School, Rajpur",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Percentage: 92.6% | Year: 2020",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "PROJECTS",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Expense Tracker Application:",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Bootstrap with features like real-time balance calculation and transaction management.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "categorized income/expense records efficiently.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "validation, and automated recurring payment (auto-debit) processing.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "and CRUD operations, while resolving server and database integration issues using XAMPP.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Resume Analyzer:",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "SQLite to automate resume screening and candidate evaluation.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "identification, keyword matching, and personalized resume improvement suggestions.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "roles and generate structured evaluation reports in real time.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "workflow for resume parsing, AI processing, and database storage of analysis results.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "INTERNSHIP",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "CODTECH IT SOLUTIONS PRIVATE LIMITED – Cloud Software Developer Intern",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Duration- May 2025-July 2025",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Configured AWS S3 buckets with secure access, versioning, and file management.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Set up AWS CloudWatch monitoring and alerts for cloud resource performance.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "TECHNICAL SKILLS",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Programming Languages: Python, Java, JavaScript",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Web Technologies: HTML, CSS, React, Node.js",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Cloud & DevOps: AWS, Docker, Terraform",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Database: MySQL, MongoDB",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Tools: Git, GitHub, VS Code",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Concepts: Data Structures, OOP, Networking, Machine Learning",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "CERTIFICATIONS",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Retrieval-Augmented Generation (RAG) with Embeddings & Vector Databases   - (Coursera)",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Data Engineering: Pipelines, ETL, Hadoop -(Coursera)",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Devops on AWS and Project Management -(Coursera)",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "PARTICIPATION & ACHIEVEMENTS",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Participated in hackathons and coding competition – OFFGRID 2.0 -2026 (conducted by",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "CodeDecode DYPIU)",
+          "suggestion": "achieved"
+        }
+      ],
+      "keyword_stuffing": [],
+      "skills_found": [
+        "python"
+      ],
+      "missing_skills": [],
+      "section_scores": {
+        "Skills": 90,
+        "Experience": 85,
+        "Education": 90,
+        "Projects": 80
+      },
+      "strength_level": "Strong",
+      "suggestions": [
+        "Your academics are strong. Highlight them near the top."
+      ],
+      "interview_questions": [
+        "Explain a project where you used python. What was your role and impact?",
+        "Tell me about the project: \"PROJECTS\". What technologies did you choose and why?",
+        "Why are you a strong fit for Software Developer based on your resume experience?",
+        "Describe one achievement from your resume that best demonstrates your strengths in python."
+      ],
+      "role_matches": [
+        {
+          "role": "Software Developer",
+          "score": 76,
+          "skills_found": [
+            "javascript",
+            "react",
+            "node",
+            "git",
+            "html",
+            "css",
+            "java",
+            "sql"
+          ],
+          "missing_skills": [
+            "typescript",
+            "c++",
+            "agile"
+          ]
+        },
+        {
+          "role": "Cloud Engineer",
+          "score": 67,
+          "skills_found": [
+            "aws",
+            "docker",
+            "terraform",
+            "python",
+            "git",
+            "sql"
+          ],
+          "missing_skills": [
+            "kubernetes",
+            "ci/cd",
+            "linux",
+            "bash"
+          ]
+        },
+        {
+          "role": "Data Analyst",
+          "score": 48,
+          "skills_found": [
+            "python",
+            "sql",
+            "git"
+          ],
+          "missing_skills": [
+            "excel",
+            "tableau",
+            "power bi",
+            "statistics",
+            "pandas",
+            "data analysis"
+          ]
+        },
+        {
+          "role": "ML Engineer",
+          "score": 56,
+          "skills_found": [
+            "python",
+            "machine learning",
+            "sql",
+            "git"
+          ],
+          "missing_skills": [
+            "deep learning",
+            "tensorflow",
+            "pytorch",
+            "pandas",
+            "c++"
+          ]
+        }
+      ],
+      "best_fit_role": "Software Developer",
+      "createdAt": "2026-05-23T17:56:02.474Z",
+      "updatedAt": "2026-05-23T17:56:02.474Z"
+    },
+    {
+      "_id": "local_r_nsxwkh8ze",
+      "user_id": "local_u_86ntxnbd8",
+      "file_path": "C:\\Users\\wwwpr\\app\\server\\uploads\\1779560601191-resume.pdf",
+      "file_name": "1779560601191-resume.pdf",
+      "resume_text": "\n\nPrachi Gupta \n(+91)9977200390 | prachigupta2624@gmail.com | LinkedIn | GitHub  \n \nEDUCATION \nBachelor of Technology in Computer Science Engineering \nD Y Patil International University – Pune \nCGPA: 7.51/10 | Expected Graduation: 2027 \nClass 12th \nNarmada Convent Higher secondary School, Barwani \nPercentage: 81.8% | Year: 2023 \nClass 10th \nRadiant Convent High School, Rajpur \nPercentage: 92.6% | Year: 2020 \nPROJECTS \nExpense Tracker Application:  \n• Developed a full-stack Digital Wallet & Expen...",
+      "job_description": "CLOUD COMPUTING",
+      "role": "Cloud Engineer",
+      "cgpa": 7.5,
+      "college": "D Y Patil International University – Pune",
+      "graduation_year": 2027,
+      "ats_score": 95,
+      "match_percentage": 100,
+      "grammar_issues": [],
+      "word_count": 379,
+      "length_status": "OK",
+      "length_recommendation": "",
+      "contact_missing": [],
+      "weak_bullets": [
+        "Prachi Gupta",
+        "EDUCATION",
+        "Bachelor of Technology in Computer Science Engineering",
+        "D Y Patil International University – Pune",
+        "CGPA: 7.51/10 | Expected Graduation: 2027",
+        "Class 12th",
+        "Narmada Convent Higher secondary School, Barwani",
+        "Percentage: 81.8% | Year: 2023",
+        "Class 10th",
+        "Radiant Convent High School, Rajpur",
+        "Percentage: 92.6% | Year: 2020",
+        "PROJECTS",
+        "Expense Tracker Application:",
+        "Bootstrap with features like real-time balance calculation and transaction management.",
+        "categorized income/expense records efficiently.",
+        "validation, and automated recurring payment (auto-debit) processing.",
+        "and CRUD operations, while resolving server and database integration issues using XAMPP.",
+        "Resume Analyzer:",
+        "SQLite to automate resume screening and candidate evaluation.",
+        "identification, keyword matching, and personalized resume improvement suggestions.",
+        "roles and generate structured evaluation reports in real time.",
+        "workflow for resume parsing, AI processing, and database storage of analysis results.",
+        "INTERNSHIP",
+        "CODTECH IT SOLUTIONS PRIVATE LIMITED – Cloud Software Developer Intern",
+        "Duration- May 2025-July 2025",
+        "Configured AWS S3 buckets with secure access, versioning, and file management.",
+        "Set up AWS CloudWatch monitoring and alerts for cloud resource performance.",
+        "TECHNICAL SKILLS",
+        "Programming Languages: Python, Java, JavaScript",
+        "Web Technologies: HTML, CSS, React, Node.js",
+        "Cloud & DevOps: AWS, Docker, Terraform",
+        "Database: MySQL, MongoDB",
+        "Tools: Git, GitHub, VS Code",
+        "Concepts: Data Structures, OOP, Networking, Machine Learning",
+        "CERTIFICATIONS",
+        "Retrieval-Augmented Generation (RAG) with Embeddings & Vector Databases   - (Coursera)",
+        "Data Engineering: Pipelines, ETL, Hadoop -(Coursera)",
+        "Devops on AWS and Project Management -(Coursera)",
+        "PARTICIPATION & ACHIEVEMENTS",
+        "Participated in hackathons and coding competition – OFFGRID 2.0 -2026 (conducted by",
+        "CodeDecode DYPIU)"
+      ],
+      "action_verb_suggestions": [
+        {
+          "line": "Prachi Gupta",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "EDUCATION",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Bachelor of Technology in Computer Science Engineering",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "D Y Patil International University – Pune",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "CGPA: 7.51/10 | Expected Graduation: 2027",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Class 12th",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Narmada Convent Higher secondary School, Barwani",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Percentage: 81.8% | Year: 2023",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Class 10th",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Radiant Convent High School, Rajpur",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Percentage: 92.6% | Year: 2020",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "PROJECTS",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Expense Tracker Application:",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Bootstrap with features like real-time balance calculation and transaction management.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "categorized income/expense records efficiently.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "validation, and automated recurring payment (auto-debit) processing.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "and CRUD operations, while resolving server and database integration issues using XAMPP.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Resume Analyzer:",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "SQLite to automate resume screening and candidate evaluation.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "identification, keyword matching, and personalized resume improvement suggestions.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "roles and generate structured evaluation reports in real time.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "workflow for resume parsing, AI processing, and database storage of analysis results.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "INTERNSHIP",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "CODTECH IT SOLUTIONS PRIVATE LIMITED – Cloud Software Developer Intern",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Duration- May 2025-July 2025",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Configured AWS S3 buckets with secure access, versioning, and file management.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Set up AWS CloudWatch monitoring and alerts for cloud resource performance.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "TECHNICAL SKILLS",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Programming Languages: Python, Java, JavaScript",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Web Technologies: HTML, CSS, React, Node.js",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Cloud & DevOps: AWS, Docker, Terraform",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Database: MySQL, MongoDB",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Tools: Git, GitHub, VS Code",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Concepts: Data Structures, OOP, Networking, Machine Learning",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "CERTIFICATIONS",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Retrieval-Augmented Generation (RAG) with Embeddings & Vector Databases   - (Coursera)",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Data Engineering: Pipelines, ETL, Hadoop -(Coursera)",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Devops on AWS and Project Management -(Coursera)",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "PARTICIPATION & ACHIEVEMENTS",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Participated in hackathons and coding competition – OFFGRID 2.0 -2026 (conducted by",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "CodeDecode DYPIU)",
+          "suggestion": "achieved"
+        }
+      ],
+      "keyword_stuffing": [],
+      "skills_found": [],
+      "missing_skills": [],
+      "section_scores": {
+        "Skills": 90,
+        "Experience": 85,
+        "Education": 90,
+        "Projects": 80
+      },
+      "strength_level": "Strong",
+      "suggestions": [],
+      "interview_questions": [
+        "Tell me about the project: \"PROJECTS\". What technologies did you choose and why?",
+        "Why are you a strong fit for Cloud Engineer based on your resume experience?",
+        "Describe one achievement from your resume that best demonstrates your strengths in Cloud Engineer."
+      ],
+      "role_matches": [
+        {
+          "role": "Software Developer",
+          "score": 76,
+          "skills_found": [
+            "javascript",
+            "react",
+            "node",
+            "git",
+            "html",
+            "css",
+            "java",
+            "sql"
+          ],
+          "missing_skills": [
+            "typescript",
+            "c++",
+            "agile"
+          ]
+        },
+        {
+          "role": "Cloud Engineer",
+          "score": 67,
+          "skills_found": [
+            "aws",
+            "docker",
+            "terraform",
+            "python",
+            "git",
+            "sql"
+          ],
+          "missing_skills": [
+            "kubernetes",
+            "ci/cd",
+            "linux",
+            "bash"
+          ]
+        },
+        {
+          "role": "Data Analyst",
+          "score": 48,
+          "skills_found": [
+            "python",
+            "sql",
+            "git"
+          ],
+          "missing_skills": [
+            "excel",
+            "tableau",
+            "power bi",
+            "statistics",
+            "pandas",
+            "data analysis"
+          ]
+        },
+        {
+          "role": "ML Engineer",
+          "score": 56,
+          "skills_found": [
+            "python",
+            "machine learning",
+            "sql",
+            "git"
+          ],
+          "missing_skills": [
+            "deep learning",
+            "tensorflow",
+            "pytorch",
+            "pandas",
+            "c++"
+          ]
+        }
+      ],
+      "best_fit_role": "Software Developer",
+      "createdAt": "2026-05-23T18:23:21.389Z",
+      "updatedAt": "2026-05-23T18:23:21.389Z",
+      "is_default": false
+    },
+    {
+      "_id": "local_r_z6r8b1nza",
+      "user_id": "local_u_4s7ruqr6d",
+      "file_path": "C:\\Users\\wwwpr\\app\\server\\uploads\\1779561808519-RESUME.pdf",
+      "file_name": "1779561808519-RESUME.pdf",
+      "resume_text": "\n\nPrachi Gupta\nPune, Maharashtra\n+91-9977200390| prachigupta2624@gmail.com| LinkedIn| GitHub\nEducation\nD Y Patil International UniversityAugust 2023 – June 2027\nBTech - Computer Science EngineeringPune, India\nCGPA: 7.51/10\nNarmada Convent Higher Secondary School2023\nClass 12th - 81.8%Barwani, India\nRadiant Convent High School2020\nClass 10th - 92.6%Rajpur, India\nExperience\nCODTECH IT SOLUTIONS PRIVATE LIMITEDMay 2025 – July 2025\nCloud Software Developer InternHyderabad, India\n•  Configured and ma...",
+      "job_description": "python jobs",
+      "role": "Product Manager",
+      "cgpa": 8.7,
+      "college": "D Y Patil International UniversityAugust 2023 – June 2027",
+      "graduation_year": 2023,
+      "ats_score": 95,
+      "match_percentage": 100,
+      "grammar_issues": [],
+      "word_count": 400,
+      "length_status": "OK",
+      "length_recommendation": "",
+      "contact_missing": [],
+      "weak_bullets": [
+        "Prachi Gupta",
+        "Pune, Maharashtra",
+        "Education",
+        "D Y Patil International UniversityAugust 2023 – June 2027",
+        "BTech - Computer Science EngineeringPune, India",
+        "CGPA: 7.51/10",
+        "Narmada Convent Higher Secondary School2023",
+        "Class 12th - 81.8%Barwani, India",
+        "Radiant Convent High School2020",
+        "Class 10th - 92.6%Rajpur, India",
+        "Experience",
+        "CODTECH IT SOLUTIONS PRIVATE LIMITEDMay 2025 – July 2025",
+        "Cloud Software Developer InternHyderabad, India",
+        "Configured and managed AWS S3 cloud storage, improving data accessibility and storage efficiency by 85% through",
+        "secure permissions, versioning, and encrypted storage.",
+        "tracking and automated performance alarms.",
+        "frontend-backend integration.",
+        "Strengthened cloud security by configuring IAM roles and policies, enabling server-side encryption, and improving data",
+        "protection and access control by 80%.",
+        "Projects",
+        "Digital Wallet & Expense Tracker| PHP, MySQL, JavaScript, BootstrapNov 2024",
+        "improving financial record accuracy by 85%.",
+        "data retrieval efficiency by 70%.",
+        "payment processing, enhancing transaction security by 80%.",
+        "database integration issues using XAMPP.",
+        "AI Resume Analyzer| Python, Flask, OpenAI API, SQLiteJan 2025",
+        "with 90% faster processing.",
+        "resume improvement suggestions.",
+        "parsing, AI processing, and database storage.",
+        "Skills",
+        "Programming Languages: Python, Java, JavaScript, SQL",
+        "Web Technologies: HTML, CSS, React.js, Node.js, Express.js, Flask",
+        "Databases: MongoDB, MySQL, Firebase",
+        "Cloud & DevOps: AWS, Docker, Terrafrom",
+        "Tools: Git, GitHub, Linux, VS Code, Intellij",
+        "Core Concepts: Data Structures & Algorithms, OOPS, DBMS, Operating Systems, Networking",
+        "Certifications",
+        "Retrieval-Augmented Generation (RAG) with Embeddings and Vector Databases – Coursera [Verify]",
+        "DevOps on AWS and Project Management – Coursera [Verify]",
+        "Data Engineering: Pipelines, ETL, Hadoop – Coursera [Verify]"
+      ],
+      "action_verb_suggestions": [
+        {
+          "line": "Prachi Gupta",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Pune, Maharashtra",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Education",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "D Y Patil International UniversityAugust 2023 – June 2027",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "BTech - Computer Science EngineeringPune, India",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "CGPA: 7.51/10",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Narmada Convent Higher Secondary School2023",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Class 12th - 81.8%Barwani, India",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Radiant Convent High School2020",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Class 10th - 92.6%Rajpur, India",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Experience",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "CODTECH IT SOLUTIONS PRIVATE LIMITEDMay 2025 – July 2025",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Cloud Software Developer InternHyderabad, India",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Configured and managed AWS S3 cloud storage, improving data accessibility and storage efficiency by 85% through",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "secure permissions, versioning, and encrypted storage.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "tracking and automated performance alarms.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "frontend-backend integration.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Strengthened cloud security by configuring IAM roles and policies, enabling server-side encryption, and improving data",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "protection and access control by 80%.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Projects",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Digital Wallet & Expense Tracker| PHP, MySQL, JavaScript, BootstrapNov 2024",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "improving financial record accuracy by 85%.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "data retrieval efficiency by 70%.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "payment processing, enhancing transaction security by 80%.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "database integration issues using XAMPP.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "AI Resume Analyzer| Python, Flask, OpenAI API, SQLiteJan 2025",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "with 90% faster processing.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "resume improvement suggestions.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "parsing, AI processing, and database storage.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Skills",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Programming Languages: Python, Java, JavaScript, SQL",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Web Technologies: HTML, CSS, React.js, Node.js, Express.js, Flask",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Databases: MongoDB, MySQL, Firebase",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Cloud & DevOps: AWS, Docker, Terrafrom",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Tools: Git, GitHub, Linux, VS Code, Intellij",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Core Concepts: Data Structures & Algorithms, OOPS, DBMS, Operating Systems, Networking",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Certifications",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Retrieval-Augmented Generation (RAG) with Embeddings and Vector Databases – Coursera [Verify]",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "DevOps on AWS and Project Management – Coursera [Verify]",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Data Engineering: Pipelines, ETL, Hadoop – Coursera [Verify]",
+          "suggestion": "achieved"
+        }
+      ],
+      "keyword_stuffing": [],
+      "skills_found": [
+        "python"
+      ],
+      "missing_skills": [],
+      "section_scores": {
+        "Skills": 90,
+        "Experience": 85,
+        "Education": 90,
+        "Projects": 80
+      },
+      "strength_level": "Strong",
+      "suggestions": [
+        "Your academics are strong. Highlight them near the top."
+      ],
+      "interview_questions": [
+        "Explain a project where you used python. What was your role and impact?",
+        "Tell me about the project: \"Implemented AWS CloudWatch monitoring and alerts,  increasing system visibility by 75% through real-time metric\". What technologies did you choose and why?",
+        "Why are you a strong fit for Product Manager based on your resume experience?",
+        "Describe one achievement from your resume that best demonstrates your strengths in python."
+      ],
+      "role_matches": [
+        {
+          "role": "Software Developer",
+          "score": 76,
+          "skills_found": [
+            "javascript",
+            "react",
+            "node",
+            "git",
+            "html",
+            "css",
+            "java",
+            "sql"
+          ],
+          "missing_skills": [
+            "typescript",
+            "c++",
+            "agile"
+          ]
+        },
+        {
+          "role": "Cloud Engineer",
+          "score": 67,
+          "skills_found": [
+            "aws",
+            "docker",
+            "linux",
+            "python",
+            "git",
+            "sql"
+          ],
+          "missing_skills": [
+            "kubernetes",
+            "ci/cd",
+            "terraform",
+            "bash"
+          ]
+        },
+        {
+          "role": "Data Analyst",
+          "score": 48,
+          "skills_found": [
+            "python",
+            "sql",
+            "git"
+          ],
+          "missing_skills": [
+            "excel",
+            "tableau",
+            "power bi",
+            "statistics",
+            "pandas",
+            "data analysis"
+          ]
+        },
+        {
+          "role": "ML Engineer",
+          "score": 48,
+          "skills_found": [
+            "python",
+            "sql",
+            "git"
+          ],
+          "missing_skills": [
+            "machine learning",
+            "deep learning",
+            "tensorflow",
+            "pytorch",
+            "pandas",
+            "c++"
+          ]
+        },
+        {
+          "role": "Frontend Developer",
+          "score": 56,
+          "skills_found": [
+            "html",
+            "css",
+            "javascript",
+            "react"
+          ],
+          "missing_skills": [
+            "vue",
+            "angular",
+            "typescript",
+            "ui/ux",
+            "responsive design"
+          ]
+        },
+        {
+          "role": "Backend Developer",
+          "score": 63,
+          "skills_found": [
+            "node",
+            "java",
+            "python",
+            "sql",
+            "api",
+            "docker"
+          ],
+          "missing_skills": [
+            "ruby",
+            "c#",
+            "nosql",
+            "redis",
+            "microservices"
+          ]
+        },
+        {
+          "role": "DevOps Engineer",
+          "score": 50,
+          "skills_found": [
+            "aws",
+            "docker",
+            "linux",
+            "python"
+          ],
+          "missing_skills": [
+            "azure",
+            "kubernetes",
+            "ci/cd",
+            "jenkins",
+            "terraform",
+            "ansible",
+            "bash"
+          ]
+        },
+        {
+          "role": "Product Manager",
+          "score": 26,
+          "skills_found": [],
+          "missing_skills": [
+            "agile",
+            "scrum",
+            "jira",
+            "product strategy",
+            "roadmap",
+            "market research",
+            "data analysis",
+            "ui/ux"
+          ]
+        },
+        {
+          "role": "UX/UI Designer",
+          "score": 41,
+          "skills_found": [
+            "html",
+            "css"
+          ],
+          "missing_skills": [
+            "figma",
+            "sketch",
+            "adobe xd",
+            "wireframing",
+            "prototyping",
+            "user research",
+            "ui/ux"
+          ]
+        }
+      ],
+      "best_fit_role": "Software Developer",
+      "createdAt": "2026-05-23T18:43:28.681Z",
+      "updatedAt": "2026-05-23T18:43:28.681Z",
+      "is_default": true
+    },
+    {
+      "_id": "local_r_n54d0dvnc",
+      "user_id": "local_u_lx2xsw67b",
+      "file_path": "C:\\Users\\wwwpr\\app\\server\\uploads\\1780669913296-Resume_Prachi_Gupta.pdf",
+      "file_name": "1780669913296-Resume_Prachi_Gupta.pdf",
+      "resume_text": "\n\nPrachi Gupta\nPune, Maharashtra\n+91-9977200390| prachigupta2624@gmail.com| LinkedIn| GitHub\nEDUCATION\nD Y Patil International UniversityAugust 2023 – June 2027\nB.Tech - Computer Science and EngineeringPune, India\nCGPA: 7.76/10\nNarmada Convent Higher Secondary School2023\nClass 12th - 81.8%Barwani, India\nRadiant Convent High School2021\nClass 10th - 92.6%Rajpur, India\nEXPERIENCE\nCODTECH IT SOLUTIONS PRIVATE LIMITEDMay 2025 – July 2025\nSoftware Developer InternHyderabad, India\n•  Developed and depl...",
+      "job_description": "seach my roles",
+      "role": "Software Developer",
+      "cgpa": 7.76,
+      "college": "D Y Patil International UniversityAugust 2023 – June 2027",
+      "graduation_year": 2023,
+      "ats_score": 88,
+      "match_percentage": 100,
+      "grammar_issues": [
+        "\"overall\" is wordy or unneeded"
+      ],
+      "word_count": 452,
+      "length_status": "OK",
+      "length_recommendation": "",
+      "contact_missing": [],
+      "weak_bullets": [
+        "Prachi Gupta",
+        "Pune, Maharashtra",
+        "EDUCATION",
+        "D Y Patil International UniversityAugust 2023 – June 2027",
+        "B.Tech - Computer Science and EngineeringPune, India",
+        "CGPA: 7.76/10",
+        "Narmada Convent Higher Secondary School2023",
+        "Class 12th - 81.8%Barwani, India",
+        "Radiant Convent High School2021",
+        "Class 10th - 92.6%Rajpur, India",
+        "EXPERIENCE",
+        "CODTECH IT SOLUTIONS PRIVATE LIMITEDMay 2025 – July 2025",
+        "Software Developer InternHyderabad, India",
+        "and frontend-backend integration by 40%.",
+        "access control mechanisms.",
+        "cation performance tracking using AWS CloudWatch.",
+        "Configured  IAM  roles,  debugging  workflows,  and  deployment  processes  to  enhance  application  security,  resource",
+        "management, and overall system efficiency by 35%.",
+        "PROJECTS",
+        "Smart Service Recommendation Platform| React.js, Next.js, Node.js, Express.js, PostgreSQL, JWT, Leaflet.js",
+        "for discovering, reviewing, and booking local services.",
+        "operations.",
+        "preferences.",
+        "mance and scalability.",
+        "AI Resume Analyzer & Recruitment Platform| React.js, Node.js, Express.js, MongoDB, Tailwind CSS, JWT, Recharts",
+        "metrics.",
+        "Smart Personal Finance Management System| HTML, CSS, PHP, MySQL, JavaScript, Bootstrap, Chart.js",
+        "TECHNICAL SKILLS",
+        "Languages: Python, Java, JavaScript, SQL",
+        "Frontend: HTML, CSS, React.js, Next.js",
+        "Backend: Node.js, Express.js, REST APIs",
+        "Cloud & DevOps: AWS (S3, IAM, EC2, CloudWatch), Google Cloud Run, Docker",
+        "Databases: PostgreSQL, MongoDB, MySQL",
+        "Tools: Git, GitHub, Linux, VS Code",
+        "Core Concepts: Data Structures and Algorithms, OOP, DBMS, Operating Systems, Computer Networks",
+        "CERTIFICATIONS",
+        "Retrieval-Augmented Generation (RAG) with Embeddings and Vector Databases – Coursera [Certificate Link]",
+        "DevOps on AWS and Project Management – Coursera [Certificate Link]",
+        "Data Engineering: Pipelines, ETL, Hadoop – Coursera [Certificate Link]"
+      ],
+      "action_verb_suggestions": [
+        {
+          "line": "Prachi Gupta",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Pune, Maharashtra",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "EDUCATION",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "D Y Patil International UniversityAugust 2023 – June 2027",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "B.Tech - Computer Science and EngineeringPune, India",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "CGPA: 7.76/10",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Narmada Convent Higher Secondary School2023",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Class 12th - 81.8%Barwani, India",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Radiant Convent High School2021",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Class 10th - 92.6%Rajpur, India",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "EXPERIENCE",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "CODTECH IT SOLUTIONS PRIVATE LIMITEDMay 2025 – July 2025",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Software Developer InternHyderabad, India",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "and frontend-backend integration by 40%.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "access control mechanisms.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "cation performance tracking using AWS CloudWatch.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Configured  IAM  roles,  debugging  workflows,  and  deployment  processes  to  enhance  application  security,  resourc",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "management, and overall system efficiency by 35%.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "PROJECTS",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Smart Service Recommendation Platform| React.js, Next.js, Node.js, Express.js, PostgreSQL, JWT, Leaflet.js",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "for discovering, reviewing, and booking local services.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "operations.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "preferences.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "mance and scalability.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "AI Resume Analyzer & Recruitment Platform| React.js, Node.js, Express.js, MongoDB, Tailwind CSS, JWT, Recharts",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "metrics.",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Smart Personal Finance Management System| HTML, CSS, PHP, MySQL, JavaScript, Bootstrap, Chart.js",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "TECHNICAL SKILLS",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Languages: Python, Java, JavaScript, SQL",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Frontend: HTML, CSS, React.js, Next.js",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Backend: Node.js, Express.js, REST APIs",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Cloud & DevOps: AWS (S3, IAM, EC2, CloudWatch), Google Cloud Run, Docker",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Databases: PostgreSQL, MongoDB, MySQL",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Tools: Git, GitHub, Linux, VS Code",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Core Concepts: Data Structures and Algorithms, OOP, DBMS, Operating Systems, Computer Networks",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "CERTIFICATIONS",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Retrieval-Augmented Generation (RAG) with Embeddings and Vector Databases – Coursera [Certificate Link]",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "DevOps on AWS and Project Management – Coursera [Certificate Link]",
+          "suggestion": "achieved"
+        },
+        {
+          "line": "Data Engineering: Pipelines, ETL, Hadoop – Coursera [Certificate Link]",
+          "suggestion": "achieved"
+        }
+      ],
+      "keyword_stuffing": [],
+      "skills_found": [],
+      "missing_skills": [],
+      "section_scores": {
+        "Skills": 40,
+        "Experience": 10,
+        "Education": 13,
+        "Projects": 25
+      },
+      "strength_level": "Strong",
+      "suggestions": [],
+      "interview_questions": [
+        "Tell me about the project: \"Developed and deployed cloud-enabled applications using AWS S3 and Google Cloud Run, improving system reliability\". What technologies did you choose and why?",
+        "Why are you a strong fit for Software Developer based on your resume experience?",
+        "Describe one achievement from your resume that best demonstrates your strengths in Software Developer."
+      ],
+      "role_matches": [
+        {
+          "role": "Software Developer",
+          "score": 76,
+          "skills_found": [
+            "javascript",
+            "react",
+            "node",
+            "git",
+            "html",
+            "css",
+            "java",
+            "sql"
+          ],
+          "missing_skills": [
+            "typescript",
+            "c++",
+            "agile"
+          ]
+        },
+        {
+          "role": "Cloud Engineer",
+          "score": 67,
+          "skills_found": [
+            "aws",
+            "docker",
+            "linux",
+            "python",
+            "git",
+            "sql"
+          ],
+          "missing_skills": [
+            "kubernetes",
+            "ci/cd",
+            "terraform",
+            "bash"
+          ]
+        },
+        {
+          "role": "Data Analyst",
+          "score": 48,
+          "skills_found": [
+            "python",
+            "sql",
+            "git"
+          ],
+          "missing_skills": [
+            "excel",
+            "tableau",
+            "power bi",
+            "statistics",
+            "pandas",
+            "data analysis"
+          ]
+        },
+        {
+          "role": "ML Engineer",
+          "score": 48,
+          "skills_found": [
+            "python",
+            "sql",
+            "git"
+          ],
+          "missing_skills": [
+            "machine learning",
+            "deep learning",
+            "tensorflow",
+            "pytorch",
+            "pandas",
+            "c++"
+          ]
+        },
+        {
+          "role": "Frontend Developer",
+          "score": 56,
+          "skills_found": [
+            "html",
+            "css",
+            "javascript",
+            "react"
+          ],
+          "missing_skills": [
+            "vue",
+            "angular",
+            "typescript",
+            "ui/ux",
+            "responsive design"
+          ]
+        },
+        {
+          "role": "Backend Developer",
+          "score": 63,
+          "skills_found": [
+            "node",
+            "java",
+            "python",
+            "sql",
+            "api",
+            "docker"
+          ],
+          "missing_skills": [
+            "ruby",
+            "c#",
+            "nosql",
+            "redis",
+            "microservices"
+          ]
+        },
+        {
+          "role": "DevOps Engineer",
+          "score": 50,
+          "skills_found": [
+            "aws",
+            "docker",
+            "linux",
+            "python"
+          ],
+          "missing_skills": [
+            "azure",
+            "kubernetes",
+            "ci/cd",
+            "jenkins",
+            "terraform",
+            "ansible",
+            "bash"
+          ]
+        },
+        {
+          "role": "Product Manager",
+          "score": 26,
+          "skills_found": [],
+          "missing_skills": [
+            "agile",
+            "scrum",
+            "jira",
+            "product strategy",
+            "roadmap",
+            "market research",
+            "data analysis",
+            "ui/ux"
+          ]
+        },
+        {
+          "role": "UX/UI Designer",
+          "score": 41,
+          "skills_found": [
+            "html",
+            "css"
+          ],
+          "missing_skills": [
+            "figma",
+            "sketch",
+            "adobe xd",
+            "wireframing",
+            "prototyping",
+            "user research",
+            "ui/ux"
+          ]
+        }
+      ],
+      "best_fit_role": "Software Developer",
+      "createdAt": "2026-06-05T14:31:53.637Z",
+      "updatedAt": "2026-06-05T14:31:53.637Z"
+    }
+  ],
+  "jobs": [
+    {
+      "_id": "local_j_1",
+      "title": "Software Developer",
+      "company": "Acme Tech",
+      "location": "Remote",
+      "description": "Work on full-stack web applications using JavaScript, React and Node.js.",
+      "requirements": [
+        "javascript",
+        "react",
+        "node",
+        "git",
+        "html",
+        "css"
+      ],
+      "createdAt": "2026-05-22T12:00:00.000Z",
+      "updatedAt": "2026-05-22T12:00:00.000Z"
+    },
+    {
+      "_id": "local_j_2",
+      "title": "Cloud Engineer",
+      "company": "Nimbus Cloud",
+      "location": "Pune, India",
+      "description": "Design and operate cloud infrastructure on AWS. Experience with Docker and Kubernetes.",
+      "requirements": [
+        "aws",
+        "docker",
+        "kubernetes",
+        "terraform",
+        "ci/cd"
+      ],
+      "createdAt": "2026-05-22T12:00:00.000Z",
+      "updatedAt": "2026-05-22T12:00:00.000Z"
+    },
+    {
+      "_id": "local_j_3",
+      "title": "Data Analyst",
+      "company": "Insight Analytics",
+      "location": "Bengaluru, India",
+      "description": "Analyze datasets and build dashboards using SQL, Python and BI tools.",
+      "requirements": [
+        "python",
+        "sql",
+        "excel",
+        "tableau",
+        "pandas"
+      ],
+      "createdAt": "2026-05-22T12:00:00.000Z",
+      "updatedAt": "2026-05-22T12:00:00.000Z"
+    }
+  ],
+  "applications": [
+    {
+      "_id": "local_a_gb2snh4v1",
+      "job_id": "local_j_1",
+      "user_id": "local_u_98o94z74a",
+      "status": "Applied",
+      "createdAt": "2026-05-23T15:10:07.436Z",
+      "updatedAt": "2026-05-23T15:10:07.436Z"
+    },
+    {
+      "_id": "local_a_g88rxujut",
+      "job_id": "local_j_1",
+      "user_id": "local_u_98o94z74a",
+      "status": "Applied",
+      "createdAt": "2026-05-23T15:15:12.202Z",
+      "updatedAt": "2026-05-23T15:15:12.202Z"
+    },
+    {
+      "_id": "local_a_civmt35a2",
+      "job_id": "local_j_1",
+      "user_id": "local_u_b1n4tnlax",
+      "status": "Applied",
+      "createdAt": "2026-05-23T17:52:23.778Z",
+      "updatedAt": "2026-05-23T17:52:23.778Z"
+    },
+    {
+      "_id": "local_a_mujzr68ik",
+      "job_id": "local_j_1",
+      "user_id": "local_u_b1n4tnlax",
+      "status": "Applied",
+      "createdAt": "2026-05-23T17:52:37.939Z",
+      "updatedAt": "2026-05-23T17:52:37.939Z"
+    },
+    {
+      "_id": "local_a_cp6gf6c9t",
+      "job_id": "local_j_1",
+      "user_id": "local_u_b1n4tnlax",
+      "status": "Applied",
+      "createdAt": "2026-05-23T17:56:33.186Z",
+      "updatedAt": "2026-05-23T17:56:33.186Z"
+    },
+    {
+      "_id": "local_a_ydi0pkblw",
+      "job_id": "local_j_2",
+      "user_id": "local_u_b1n4tnlax",
+      "status": "Applied",
+      "createdAt": "2026-05-23T18:00:03.049Z",
+      "updatedAt": "2026-05-23T18:00:03.049Z"
+    },
+    {
+      "_id": "local_a_8d75nwx0m",
+      "job_id": "local_j_3",
+      "user_id": "local_u_b1n4tnlax",
+      "status": "Applied",
+      "createdAt": "2026-05-23T18:00:09.144Z",
+      "updatedAt": "2026-05-23T18:00:09.144Z"
+    },
+    {
+      "_id": "local_a_a1shct25s",
+      "job_id": "local_j_1",
+      "user_id": "local_u_lx2xsw67b",
+      "status": "Applied",
+      "createdAt": "2026-06-05T14:31:09.822Z",
+      "updatedAt": "2026-06-05T14:31:09.822Z"
+    }
+  ]
+}
